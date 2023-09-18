@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hej 👋
 
 - 🔭 I’m currently working on 5imFortress, a security driven 5G mast simulation with attacks.
 - 🌱 I’m currently learning about IT-security and 5G
