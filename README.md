@@ -1,8 +1,9 @@
 ### Hej 👋
 
-- 🔭 CyberSecurity Student. Currently on my last year
-- 🌱 Python & C++, also dabble with Assembly, C, Sagemath, R, SQL, CSS, HTML, Jquery, JavaScript
-- 💬 Ask me about anything!
-- 📫 How to reach me: olbo20@student.bth.se
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Dungeons & Dragons!
+[Visit my website!](https://svarthatt.se/)
+
+- 🔒 **Currently doing:** Currently working as a Cybersecurity Technician.
+- 🖥️ **Languages:** Python & C++, with hands-on experience in Assembly, C, Sagemath, R, SQL, CSS, HTML, jQuery, and JavaScript.
+- 📫 **Contact Me:** Reach out to me at [oliver@svarthatt.se](mailto:oliver@svarthatt.se)
+- 🌈 **Pronouns:** He/Him
+- 🎲 **Fun Fact:** I'm a huge fan of Dungeons & Dragons, always ready for an epic adventure!
